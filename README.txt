@@ -1,21 +1,10 @@
 # Algoria
 
-<div align="center">
-  <img src="screenshots/game_title.png" alt="Algoria Game Title" width="600"/>
-  
-  ![GitHub stars](https://img.shields.io/github/stars/yourusername/algoria?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/yourusername/algoria?style=social)
-  ![GitHub issues](https://img.shields.io/github/issues/yourusername/algoria?style=social)
-  ![License](https://img.shields.io/github/license/yourusername/algoria)
-</div>
+Algoria is a Java-based 2D space shooter game where you navigate through a dangerous galaxy, collecting valuable items while dodging deadly obstacles. The fate of the universe is in your hands!
 
 ## 🌌 About
 
-Algoria is a Java-based 2D space shooter game where you navigate through a dangerous galaxy, collecting valuable items while dodging deadly obstacles. The fate of the universe is in your hands!
-
-<div align="center">
-  <img src="screenshots/gameplay.gif" alt="Gameplay" width="600"/>
-</div>
+In Algoria, you control a spaceship that must navigate through space, collecting valuable items while avoiding dangerous space obstacles! The game features a scrolling environment where new entities continuously appear from the right side of the screen.
 
 ## ✨ Features
 
@@ -74,18 +63,18 @@ Algoria is a Java-based 2D space shooter game where you navigate through a dange
 ### Setup Instructions
 
 1. Clone the repository:
-   ```bash
+   ```
    git clone https://github.com/yourusername/algoria.git
    cd algoria
    ```
 
 2. Compile the game:
-   ```bash
+   ```
    javac *.java
    ```
 
 3. Run the game:
-   ```bash
+   ```
    java SSGLauncher
    ```
 
@@ -116,7 +105,6 @@ algoria/
 │   ├── Projectile.java        # Projectile system
 │   └── Window.java            # Graphics rendering
 ├── media_files/               # Game assets
-├── screenshots/               # Game screenshots
 ├── LICENSE                    # Project license
 └── README.md                  # This file
 ```
@@ -132,19 +120,3 @@ algoria/
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
----
-
-<div align="center">
-  <p>Made with ❤️ by Alexander Ramirez</p>
-</div>
