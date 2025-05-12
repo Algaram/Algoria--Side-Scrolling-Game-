@@ -1,14 +1,5 @@
 # Algoria
 
-<div align="center">
-  <img src="screenshots/game_title.png" alt="Algoria Game Title" width="600"/>
-  
-  ![GitHub stars](https://img.shields.io/github/stars/yourusername/algoria?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/yourusername/algoria?style=social)
-  ![GitHub issues](https://img.shields.io/github/issues/yourusername/algoria?style=social)
-  ![License](https://img.shields.io/github/license/yourusername/algoria)
-</div>
-
 ## 🌌 About
 
 Algoria is a Java-based 2D space shooter game where you navigate through a dangerous galaxy, collecting valuable items while dodging deadly obstacles. The fate of the universe is in your hands!
